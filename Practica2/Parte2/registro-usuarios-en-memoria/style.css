@@ -1,0 +1,12 @@
+#error {
+  color: red;
+  margin-top: 5px;
+}
+li {
+  margin-bottom: 5px;
+}
+button.eliminar {
+  margin-left: 10px;
+  color: red;
+  cursor: pointer;
+}
